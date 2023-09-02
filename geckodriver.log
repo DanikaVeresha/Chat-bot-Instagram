@@ -1,0 +1,969 @@
+1692805243087	geckodriver	INFO	Listening on 127.0.0.1:50644
+1692805247282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daria\\AppData\\Local\\Temp\\rust_mozprofile2zRTBM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692805250391	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692805250862	Marionette	INFO	Listening on port 50664
+Read port: 50664
+WebDriver BiDi listening on ws://127.0.0.1:50645
+1692805251211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50645/devtools/browser/354e10c3-f89a-40a7-8a06-f3fc414d50f6
+[Parent 74616, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 46660, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yH/l/en_US/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1692805267958	Marionette	INFO	Stopped listening on port 50664
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz, line 223: Script terminated by timeout at:
+g.unstable_now@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:223:1304
+Y/P<@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:223:3452
+
+Dynamically enable window occlusion 1
+[Parent 74616, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 46660, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 74616, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 46660, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 74616, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 46660, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 74616, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 46660, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 74616, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 46660, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692805310109	geckodriver	INFO	Listening on 127.0.0.1:50721
+1692805313201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50722" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daria\\AppData\\Local\\Temp\\rust_mozprofilep3A7l7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692805314738	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692805315017	Marionette	INFO	Listening on port 50737
+WebDriver BiDi listening on ws://127.0.0.1:50722
+Read port: 50737
+1692805316346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50722/devtools/browser/2685d54e-16e1-4919-9cb7-75aeaff325bb
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yH/l/en_US/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 62556, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 74424, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692805333413	Marionette	INFO	Stopped listening on port 50737
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz, line 223: Script terminated by timeout at:
+Y/P<@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:223:3448
+
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 62556, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 74424, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 62556, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 74424, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 62556, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 74424, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 62556, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 74424, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692805570713	geckodriver	INFO	Listening on 127.0.0.1:50860
+1692805573815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50861" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daria\\AppData\\Local\\Temp\\rust_mozprofileUJcQaE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692805575087	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692805575292	Marionette	INFO	Listening on port 50868
+WebDriver BiDi listening on ws://127.0.0.1:50861
+Read port: 50868
+1692805575868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50861/devtools/browser/d8aaeb89-303e-47f1-8b0a-8a96941a9cde
+[Parent 75268, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 76268, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yH/l/en_US/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz, line 895: Script terminated by timeout at:
+h.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:895:4224
+B@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:895:1580
+h._initialize/<@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:895:4851
+d@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:896:158
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1692807015647	Marionette	INFO	Stopped listening on port 50868
+Dynamically enable window occlusion 1
+[Parent 75268, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 76268, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 75268, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 76268, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 75268, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 76268, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 75268, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 76268, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 75268, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 76268, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+ I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 61384, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 61956, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 61384, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 61956, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 61384, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692807228269	geckodriver	INFO	Listening on 127.0.0.1:51200
+1692807232114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daria\\AppData\\Local\\Temp\\rust_mozprofilejqNfzW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692807234417	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692807234656	Marionette	INFO	Listening on port 51208
+Read port: 51208
+WebDriver BiDi listening on ws://127.0.0.1:51201
+1692807235192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51201/devtools/browser/20101f1c-7cb8-4407-87a4-4230f70e4aa9
+[Parent 74976, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 66540, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yH/l/en_US/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz, line 895: Script terminated by timeout at:
+h.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:895:4224
+B@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:895:1580
+h._initialize/<@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:895:4851
+d@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:896:158
+
+1692808162510	Marionette	INFO	Stopped listening on port 51208
+Dynamically enable window occlusion 1
+[Parent 74976, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 66540, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 74976, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 66540, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 74976, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 66540, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 74976, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 66540, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+e/common/ipc_channel_win.cc:443
+[Parent 64820, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 76384, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 64820, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 76384, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 64820, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 76384, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 64820, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 76384, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692807970149	geckodriver	INFO	Listening on 127.0.0.1:51415
+1692807973384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51416" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daria\\AppData\\Local\\Temp\\rust_mozprofilenjhgl7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692807974712	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692807974949	Marionette	INFO	Listening on port 51425
+WebDriver BiDi listening on ws://127.0.0.1:51416
+Read port: 51425
+1692807975799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51416/devtools/browser/62c3e179-41e4-4f4c-bf82-327d913508f4
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yH/l/en_US/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 58092, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 74196, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz, line 59: Script terminated by timeout at:
+inGuard@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:59:2835
+inGuard@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:59:11267
+G@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:47:1715
+B@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:47:1301
+F@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:47:1551
+b.$19@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:201:4602
+b.wrapAndEnqueueItem@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6DevTools listening on ws://127.0.0.1:51491/devtools/browser/4411c778-7bd2-44d8-8c99-6a1a2f6cc74e
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yH/l/en_US/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 64004, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 61768, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 64004, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 61768, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz, line 47: Script terminated by timeout at:
+E@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:47:1475
+T@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1717:5154
+r@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1732:3390
+u/<@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:936:4607
+u@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:936:4550
+v@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:936:4866
+m@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:988:1210
+i@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:988:649
+l@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:988:969
+
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz, line 985: Script terminated by timeout at:
+x@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:985:531
+s@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:985:199
+
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.sys.mjs","lineNumber":2279,"stack":["resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_onQuitApplicationGranted:2279","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_observe:1172"]}] Barrier: quit-application-granted
+1692809772088	Marionette	INFO	Stopped listening on port 51501
+Dynamically enable window occlusion 1
+[Parent 64004, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 61768, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 64004, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 61768, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 64004, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 61768, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 64004, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 61768, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+Wp8lg5Kz:229:407
+
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz, line 47: Script terminated by timeout at:
+E@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:47:1475
+L@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:895:4489
+d@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:896:158
+
+[Parent 58092, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 74196, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692809743579	geckodriver	INFO	Listening on 127.0.0.1:52316
+1692809746809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daria\\AppData\\Local\\Temp\\rust_mozprofileU0wJ1j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692809748453	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692809748788	Marionette	INFO	Listening on port 52325
+WebDriver BiDi listening on ws://127.0.0.1:52317
+Read port: 52325
+1692809748967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52317/devtools/browser/ded1585a-c6fd-42aa-a7b9-8969ffa7c8f1
+[Parent 73604, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 65976, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692809762711	Marionette	INFO	Stopped listening on port 52325
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz, line 967: Script terminated by timeout at:
+f/<@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:967:7399
+
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yH/l/en_US/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Dynamically enable window occlusion 1
+[Parent 73604, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 65976, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 73604, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 65976, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 73604, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 65976, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 73604, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 65976, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 73604, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 65976, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692809938304	geckodriver	INFO	Listening on 127.0.0.1:52382
+1692809943783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52383" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daria\\AppData\\Local\\Temp\\rust_mozprofileQTFcOq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692809956028	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692809956367	Marionette	INFO	Listening on port 52397
+WebDriver BiDi listening on ws://127.0.0.1:52383
+Read port: 52397
+1692809957737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+DevTools listening on ws://127.0.0.1:52383/devtools/browser/8d7301d5-5d5a-49d7-85a3-69068c09de71
+1692809971233	Marionette	INFO	Stopped listening on port 52397
+[Parent 74920, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 74388, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqmV4/yI/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJnhDqkw8nwFXn90UZWhWL92wyb8Ob8iWaMnXxubVAIVwYHaypzNAtiDxP3C31JedB_9C0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz, line 102: Script terminated by timeout at:
+p@https://static.cdninstagram.com/rsrc.php/v3iqmV4/yI/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJnhDqkw8nwFXn90UZWhWL92wyb8Ob8iWaMnXxubVAIVwYHaypzNAtiDxP3C31JedB_9C0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:102:2194
+q@https://static.cdninstagram.com/rsrc.php/v3iqmV4/yI/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJnhDqkw8nwFXn90UZWhWL92wyb8Ob8iWaMnXxubVAIVwYHaypzNAtiDxP3C31JedB_9C0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:102:2284
+
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yH/l/en_US/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 74920, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 74388, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+Dynamically enable window occlusion 1
+[Parent 74920, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 74388, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 74920, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 74388, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 74920, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 74388, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 74920, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 74388, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692810011146	geckodriver	INFO	Listening on 127.0.0.1:52442
+1692810014258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52443" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daria\\AppData\\Local\\Temp\\rust_mozprofileHgulBz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692810015806	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692810016284	Marionette	INFO	Listening on port 52450
+WebDriver BiDi listening on ws://127.0.0.1:52443
+Read port: 52450
+Read port: 52450
+1692810017848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52443/devtools/browser/5e39608e-01f1-45b2-b15a-ba5a9a79bebb
+[Parent 76336, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 73032, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yH/l/en_US/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz, line 895: Script terminated by timeout at:
+h.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:895:4224
+B@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:895:1580
+h._initialize/<@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:895:4851
+d@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:896:158
+
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz, line 1759: Script terminated by timeout at:
+v@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1759:2319
+x.prototype.compressToBuffer@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1759:3105
+b@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1759:1173
+compressStringToSnappyBinary@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1760:830
+compressWad@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1761:555
+compressWad@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz, line 936: Script terminated by timeout at:
+p@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:936:3825
+m@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:988:1101
+i@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:988:649
+l@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:988:969
+
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz, line 985: Script terminated by timeout at:
+x@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:985:531
+s@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:985:199
+
+1692811943910	Marionette	INFO	Stopped listening on port 52516
+Dynamically enable window occlusion 1
+[Parent 76136, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 65080, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 76136, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 65080, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 76136, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 65080, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=280bfbc2600","state":{"remoteTypePrefix":"webIsolated"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3929,"stack":""}] Barrier: profile-before-change
+[Parent 76136, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 65080, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+irefox.exe" "--marionette" "--remote-debugging-port" "52593" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daria\\AppData\\Local\\Temp\\rust_mozprofileJXFDBK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692810554508	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692810554726	Marionette	INFO	Listening on port 52600
+WebDriver BiDi listening on ws://127.0.0.1:52593
+Read port: 52600
+1692810555766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52593/devtools/browser/767e783b-91ce-46e1-a25d-9d39cdbe9710
+[Parent 55036, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 78824, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yH/l/en_US/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yH/l/en_US/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz, line 895: Script terminated by timeout at:
+h.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:895:4224
+B@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:895:1580
+h._initialize/<@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:895:4851
+d@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:896:158
+
+1692811940878	Marionette	INFO	Stopped listening on port 52600
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz, line 1759: Script terminated by timeout at:
+b@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1759:1461
+compressStringToSnappyBinary@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1760:830
+compressWad@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1761:555
+compressWad@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1761:410
+_prepWadForTransit@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1764:4433
+_tryToSendViaBeacon@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1764:7071
+_sendBeacon@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1764:5403
+_unload@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1764:7644
+a@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:228:191
+o@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:229:871
+l/<@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:229:407
+
+Dynamically enable window occlusion 1
+[Parent 55036, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 78824, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 55036, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 78824, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 55036, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 78824, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 55036, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 78824, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=2551eb4cc00","state":{"remoteTypePrefix":"webIsolated"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3929,"stack":""}] Barrier: profile-before-change
+[Parent 55036, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 78824, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692813636133	geckodriver	INFO	Listening on 127.0.0.1:53737
+1692813639370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53738" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daria\\AppData\\Local\\Temp\\rust_mozprofilebZFoN3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692813641074	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692813641326	Marionette	INFO	Listening on port 53748
+WebDriver BiDi listening on ws://127.0.0.1:53738
+Read port: 53748
+1692813641890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53738/devtools/browser/6c0c6127-e5fe-4822-a72a-fcc93bf57bf6
+[Parent 60928, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 75840, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692813652793	Marionette	INFO	Stopped listening on port 53748
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz, line 366: Script terminated by timeout at:
+@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:366:361
+G@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:47:2635
+B@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:47:1301
+F@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:47:1551
+@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:370:318
+G@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:47:2635
+B@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:47:1301
+F@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:47:1551
+a@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:672:2146
+Ne@https://static.cdninstagram.com/rsrc.php/v3i_lf4/ym/l/en_US/AF2l93JfV1upLpEFQCIXbXr2p7esd700U5ga8tHmWpG3XOfWZfPTXR1XkFR61et6j5imhmnAZRFiJOS0CMbib3iGWvNZUZCW8e2N7bfWkE2yY8bw7cfJqgsbJwyb8Ob8iWaM_ZrRRlPZSEqPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxGZOJbR3qWVFxDmA7Ndb-wcP3C31JedB_9tIDowsoL1PJ.js?_nc_x=Ij3Wp8lg5Kz:366:42671
+ck@https://static.cdninstagram.com/rsrc.php/v3i_lf4/ym/l/en_US/AF2l93JfV1upLpEFQCIXbXr2p7esd700U5ga8tHmWpG3XOfWZfPTXR1XkFR61et6j5imhmnAZRFiJOS0CMbib3iGWvNZUZCW8e2N7bfWkE2yY8bw7cfJqgsbJwyb8Ob8iWaM_ZrRRlPZSEqPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxGZOJbR3qWVFxDmA7Ndb-wcP3C31JedB_9tIDowsoL1PJ.js?_nc_x=Ij3Wp8lg5Kz:366:123282
+Oj@https://static.cdninstagram.com/rsrc.php/v3i_lf4/ym/l/en_US/AF2l93JfV1upLpEFQCIXbXr2p7esd700U5ga8tHmWpG3XOfWZfPTXR1XkFR61et6j5imhmnAZRFiJOS0CMbib3iGWvNZUZCW8e2N7bfWkE2yY8bw7cfJqgsbJwyb8Ob8iWaM_ZrRRlPZSEqPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxGZOJbR3qWVFxDmA7Ndb-wcP3C31JedB_9tIDowsoL1PJ.js?_nc_x=Ij3Wp8lg5Kz:366:117239
+Lj@https://static.cdninstagram.com/rsrc.php/v3i_lf4/ym/l/en_US/AF2l93JfV1upLpEFQCIXbXr2p7esd700U5ga8tHmWpG3XOfWZfPTXR1XkFR61et6j5imhmnAZRFiJOS0CMbib3iGWvNZUZCW8e2N7bfWkE2yY8bw7cfJqgsbJwyb8Ob8iWaM_ZrRRlPZSEqPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxGZOJbR3qWVFxDmA7Ndb-wcP3C31JedB_9tIDowsoL1PJ.js?_nc_x=Ij3Wp8lg5Kz:366:116410
+Kj@https://static.cdninstagram.com/rsrc.php/v3i_lf4/ym/l/en_US/AF2l93JfV1upLpEFQCIXbXr2p7esd700U5ga8tHmWpG3XOfWZfPTXR1XkFR61et6j5imhmnAZRFiJOS0CMbib3iGWvNZUZCW8e2N7bfWkE2yY8bw7cfJqgsbJwyb8Ob8iWaM_ZrRRlPZSEqPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxGZOJbR3qWVFxDmA7Ndb-wcP3C31JedB_9tIDowsoL1PJ.js?_nc_x=Ij3Wp8lg5Kz:366:116223
+vj@https://static.cdninstagram.com/rsrc.php/v3i_lf4/ym/l/en_US/AF2l93JfV1upLpEFQCIXbXr2p7esd700U5ga8tHmWpG3XOfWZfPTXR1XkFR61et6j5imhmnAZRFiJOS0CMbib3iGWvNZUZCW8e2N7bfWkE2yY8bw7cfJqgsbJwyb8Ob8iWaM_ZrRRlPZSEqPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxGZOJbR3qWVFxDmA7Ndb-wcP3C31JedB_9tIDowsoL1PJ.js?_nc_x=Ij3Wp8lg5Kz:366:113068
+applyWithGuard@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:59:10432
+c@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:59:11166
+N@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:223:2343
+U@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:223:3045
+
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 60928, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 75840, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 60928, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 75840, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 60928, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 75840, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 60928, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 75840, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 60928, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 75840, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692813689191	geckodriver	INFO	Listening on 127.0.0.1:53797
+1692813692352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53798" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daria\\AppData\\Local\\Temp\\rust_mozprofilex9N8KY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692813696618	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692813696948	Marionette	INFO	Listening on port 53806
+WebDriver BiDi listening on ws://127.0.0.1:53798
+Read port: 53806
+1692813697747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53798/devtools/browser/d511ea30-0b72-46a6-8067-96d91ec660bd
+[Parent 72200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 76024, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692813710900	Marionette	INFO	Stopped listening on port 53806
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz, line 99: Script terminated by timeout at:
+a@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:99:249
+shouldAppendToken@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:180:483
+c.send@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:588:3137
+j/j</g<@https://static.cdninstagram.com/rsrc.php/v3igIo4/yn/l/en_US/70emZhxGFvHoC3hjI4ZrAL6776ML2fKrv5PC91097DzWlkhxxK-dCwSy5ZNr8PxVwssZMPNOxOH1hDldtNK03LKWl1731ZssrPKE6eCs0zFrcphQAdvNOqlh1s4riCeg7pnSuOl69IoVzas_85AXfJFmeoa-KpvEnoaZjlwVcjdD6sXjRN3DmZDPOwVGcz1uzQVeNX.js?_nc_x=Ij3Wp8lg5Kz:123:577
+j/j<@https://static.cdninstagram.com/rsrc.php/v3igIo4/yn/l/en_US/70emZhxGFvHoC3hjI4ZrAL6776ML2fKrv5PC91097DzWlkhxxK-dCwSy5ZNr8PxVwssZMPNOxOH1hDldtNK03LKWl1731ZssrPKE6eCs0zFrcphQAdvNOqlh1s4riCeg7pnSuOl69IoVzas_85AXfJFmeoa-KpvEnoaZjlwVcjdD6sXjRN3DmZDPOwVGcz1uzQVeNX.js?_nc_x=Ij3Wp8lg5Kz:123:377
+g@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:270:119
+h@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:270:328
+a/</<@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:270:387
+a/<@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:270:262
+j@https://static.cdninstagram.com/rsrc.php/v3igIo4/yn/l/en_US/70emZhxGFvHoC3hjI4ZrAL6776ML2fKrv5PC91097DzWlkhxxK-dCwSy5ZNr8PxVwssZMPNOxOH1hDldtNK03LKWl1731ZssrPKE6eCs0zFrcphQAdvNOqlh1s4riCeg7pnSuOl69IoVzas_85AXfJFmeoa-KpvEnoaZjlwVcjdD6sXjRN3DmZDPOwVGcz1uzQVeNX.js?_nc_x=Ij3Wp8lg5Kz:123:763
+i@https://static.cdninstagram.com/rsrc.php/v3igIo4/yn/l/en_US/70emZhxGFvHoC3hjI4ZrAL6776ML2fKrv5PC91097DzWlkhxxK-dCwSy5ZNr8PxVwssZMPNOxOH1hDldtNK03LKWl1731ZssrPKE6eCs0zFrcphQAdvNOqlh1s4riCeg7pnSuOl69IoVzas_85AXfJFmeoa-KpvEnoaZjlwVcjdD6sXjRN3DmZDPOwVGcz1uzQVeNX.js?_nc_x=Ij3Wp8lg5Kz:123:262
+n/n<@https://static.cdninstagram.com/rsrc.php/v3igIo4/yn/l/en_US/70emZhxGFvHoC3hjI4ZrAL6776ML2fKrv5PC91097DzWlkhxxK-dCwSy5ZNr8PxVwssZMPNOxOH1hDldtNK03LKWl1731ZssrPKE6eCs0zFrcphQAdvNOqlh1s4riCeg7pnSuOl69IoVzas_85AXfJFmeoa-KpvEnoaZjlwVcjdD6sXjRN3DmZDPOwVGcz1uzQVeNX.js?_nc_x=Ij3Wp8lg5Kz:123:1639
+g@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:270:119
+h@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:270:328
+a/</<@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:270:387
+a/<@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:270:262
+n@https://static.cdninstagram.com/rsrc.php/v3igIo4/yn/l/en_US/70emZhxGFvHoC3hjI4ZrAL6776ML2fKrv5PC91097DzWlkhxxK-dCwSy5ZNr8PxVwssZMPNOxOH1hDldtNK03LKWl1731ZssrPKE6eCs0zFrcphQAdvNOqlh1s4riCeg7pnSuOl69IoVzas_85AXfJFmeoa-KpvEnoaZjlwVcjdD6sXjRN3DmZDPOwVGcz1uzQVeNX.js?_nc_x=Ij3Wp8lg5Kz:123:1961
+m@https://static.cdninstagram.com/rsrc.php/v3igIo4/yn/l/en_US/70emZhxGFvHoC3hjI4ZrAL6776ML2fKrv5PC91097DzWlkhxxK-dCwSy5ZNr8PxVwssZMPNOxOH1hDldtNK03LKWl1731ZssrPKE6eCs0zFrcphQAdvNOqlh1s4riCeg7pnSuOl69IoVzas_85AXfJFmeoa-KpvEnoaZjlwVcjdD6sXjRN3DmZDPOwVGcz1uzQVeNX.js?_nc_x=Ij3Wp8lg5Kz:123:1252
+a@https://static.cdninstagram.com/rsrc.php/v3igIo4/yn/l/en_US/70emZhxGFvHoC3hjI4ZrAL6776ML2fKrv5PC91097DzWlkhxxK-dCwSy5ZNr8PxVwssZMPNOxOH1hDldtNK03LKWl1731ZssrPKE6eCs0zFrcphQAdvNOqlh1s4riCeg7pnSuOl69IoVzas_85AXfJFmeoa-KpvEnoaZjlwVcjdD6sXjRN3DmZDPOwVGcz1uzQVeNX.js?_nc_x=Ij3Wp8lg5Kz:123:2013
+c.$12/r<@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:219:2710
+applyWithGuard@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:59:10432
+c@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:59:11166
+G@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:47:2635
+B@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:47:1301
+D@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:47:1439
+S/<@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:47:6146
+makeSchedulerGlobalEntry/a.ScheduleJSWork/</<@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:227:2525
+g.unstable_runWithPriority@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:223:4540
+deferUserBlockingRunAtCurrentPri_DO_NOT_USE/<@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:227:1207
+applyWithGuard@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:59:10432
+c@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:59:11166
+N@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:223:2343
+U@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:223:3045
+
+Dynamically enable window occlusion 1
+[Parent 72200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 76024, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 72200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 76024, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 72200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 76024, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 72200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 76024, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 72200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 76024, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692813744927	geckodriver	INFO	Listening on 127.0.0.1:53850
+1692813748052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daria\\AppData\\Local\\Temp\\rust_mozprofileNn72DB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692813749695	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692813749969	Marionette	INFO	Listening on port 53868
+WebDriver BiDi listening on ws://127.0.0.1:53851
+Read port: 53868
+1692813750613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53851/devtools/browser/b972001c-05cd-4a38-842c-271287c725e2
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yH/l/en_US/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yH/l/en_US/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yH/l/en_US/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yR/l/makehaste_jhash/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yR/l/makehaste_jhash/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 76528, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 77352, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/ErKWmeVCTG4.js?_nc_x=Ij3Wp8lg5Kz, line 80: Script terminated by timeout at:
+_prepForTransit@https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/ErKWmeVCTG4.js?_nc_x=Ij3Wp8lg5Kz:80:4350
+_tryToSendViaBeacon@https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/ErKWmeVCTG4.js?_nc_x=Ij3Wp8lg5Kz:80:7101
+_initialize/</<@https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/ErKWmeVCTG4.js?_nc_x=Ij3Wp8lg5Kz:80:3545
+_initialize/<@https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/ErKWmeVCTG4.js?_nc_x=Ij3Wp8lg5Kz:80:3493
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:59:10432
+c.__emitToSubscription@https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:68:1477
+c.emit@https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:68:1303
+@https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:272:1027
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:59:10432
+c@https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:59:11166
+
+[Parent 76528, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 77352, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yR/l/makehaste_jhash/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz, line 64: Script terminated by timeout at:
+b.getSubscriptionsForType@https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:64:525
+c.emit@https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:68:1006
+t<@https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/Nr_jwL5Stup.js?_nc_x=Ij3Wp8lg5Kz:20:5565
+a@https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:228:191
+e/<@https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:229:2235
+
+[Parent 76528, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 77352, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iURt4/yl/l/makehaste_jhash/AF2l93JfV1upLpEFQCIXbXr2p7esd700UXOfWZfPTXR1nhDqkw8nwFXWvNZUZCW8e2wyb8Ob8iWaM_ZrRRlPZSEq3qd3_bDos5JIY0TNVn405L.js?_nc_x=Ij3Wp8lg5Kz, line 366: Script terminated by timeout at:
+Kf@https://static.cdninstagram.com/rsrc.php/v3iURt4/yl/l/makehaste_jhash/AF2l93JfV1upLpEFQCIXbXr2p7esd700UXOfWZfPTXR1nhDqkw8nwFXWvNZUZCW8e2wyb8Ob8iWaM_ZrRRlPZSEq3qd3_bDos5JIY0TNVn405L.js?_nc_x=Ij3Wp8lg5Kz:366:50849
+If@https://static.cdninstagram.com/rsrc.php/v3iURt4/yl/l/makehaste_jhash/AF2l93JfV1upLpEFQCIXbXr2p7esd700UXOfWZfPTXR1nhDqkw8nwFXWvNZUZCW8e2wyb8Ob8iWaM_ZrRRlPZSEq3qd3_bDos5JIY0TNVn405L.js?_nc_x=Ij3Wp8lg5Kz:366:50357
+a/<@https://static.cdninstagram.com/rsrc.php/v3imYA4/yP/l/makehaste_jhash/5ga8tHmWpG3.js?_nc_x=Ij3Wp8lg5Kz:41:395
+a/</a<@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yW/l/makehaste_jhash/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1194:366
+e@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:232:598
+applyWithGuard@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:59:10432
+c@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:59:11166
+N@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:223:2343
+U@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:223:3045
+
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ioHS4/yD/l/makehaste_jhash/6RkONggERET.js?_nc_x=Ij3Wp8lg5Kz, line 190: Script terminated by timeout at:
+e/<@https://static.cdninstagram.com/rsrc.php/v3ioHS4/yD/l/makehaste_jhash/6RkONggERET.js?_nc_x=Ij3Wp8lg5Kz:190:1500
+
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.sys.mjs","lineNumber":2279,"stack":["resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_onQuitApplicationGranted:2279","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_observe:1172"]}] Barrier: quit-application-granted
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz, line 47: Script terminated by timeout at:
+F@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:47:1549
+k@https://static.cdninstagram.com/rsrc.php/v3ioHS4/yD/l/makehaste_jhash/6RkONggERET.js?_nc_x=Ij3Wp8lg5Kz:59:819
+n@https://static.cdninstagram.com/rsrc.php/v3ioHS4/yD/l/makehaste_jhash/6RkONggERET.js?_nc_x=Ij3Wp8lg5Kz:59:1555
+info@https://static.cdninstagram.com/rsrc.php/v3ioHS4/yD/l/makehaste_jhash/6RkONggERET.js?_nc_x=Ij3Wp8lg5Kz:59:3822
+LOG@https://static.cdninstagram.com/rsrc.php/v3ifmU4/yk/l/makehaste_jhash/V5N734sv7KvH2twr9bXxu4.js?_nc_x=Ij3Wp8lg5Kz:49:1188
+e.$8@https://static.cdninstagram.com/rsrc.php/v3ioHS4/yD/l/makehaste_jhash/6RkONggERET.js?_nc_x=Ij3Wp8lg5Kz:141:3199
+e.setPort/a.onmessage/<@https://static.cdninstagram.com/rsrc.php/v3ioHS4/yD/l/makehaste_jhash/6RkONggERET.js?_nc_x=Ij3Wp8lg5Kz:141:2242
+e.setPort/a.onmessage@https://static.cdninstagram.com/rsrc.php/v3ioHS4/yD/l/makehaste_jhash/6RkONggERET.js?_nc_x=Ij3Wp8lg5Kz:141:2201
+q/q</</b.onmessage@https://static.cdninstagram.com/rsrc.php/v3ioHS4/yD/l/makehaste_jhash/6RkONggERET.js?_nc_x=Ij3Wp8lg5Kz:158:2165
+b/<@https://static.cdninstagram.com/rsrc.php/v3ioHS4/yD/l/makehaste_jhash/6RkONggERET.js?_nc_x=Ij3Wp8lg5Kz:195:747
+b.$2@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:91:822
+a.onMessageHandler@https://static.cdninstagram.com/rsrc.php/v3ioHS4/yD/l/makehaste_jhash/6RkONggERET.js?_nc_x=Ij3Wp8lg5Kz:190:1240
+e/<@https://static.cdninstagram.com/rsrc.php/v3ioHS4/yD/l/makehaste_jhash/6RkONggERET.js?_nc_x=Ij3Wp8lg5Kz:190:1509
+
+1692814424387	Marionette	INFO	Stopped listening on port 53868
+Dynamically enable window occlusion 1
+[Parent 76528, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[Parent 76528, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 77352, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[GPU 77352, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 76528, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 77352, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwWC4/yW/l/makehaste_jhash/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz, line 1451: Script terminated by timeout at:
+i/<@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yW/l/makehaste_jhash/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1451:165
+l@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yW/l/makehaste_jhash/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1451:1148
+W@https://static.cdninstagram.com/rsrc.php/v3imYA4/yP/l/makehaste_jhash/5ga8tHmWpG3.js?_nc_x=Ij3Wp8lg5Kz:108:23754
+h@https://static.cdninstagram.com/rsrc.php/v3imYA4/yP/l/makehaste_jhash/5ga8tHmWpG3.js?_nc_x=Ij3Wp8lg5Kz:108:23972
+p/a<@https://static.cdninstagram.com/rsrc.php/v3imYA4/yP/l/makehaste_jhash/5ga8tHmWpG3.js?_nc_x=Ij3Wp8lg5Kz:108:10706
+g@https://static.cdninstagram.com/rsrc.php/v3imYA4/yP/l/makehaste_jhash/5ga8tHmWpG3.js?_nc_x=Ij3Wp8lg5Kz:96:13344
+dispatch@https://static.cdninstagram.com/rsrc.php/v3imYA4/yP/l/makehaste_jhash/5ga8tHmWpG3.js?_nc_x=Ij3Wp8lg5Kz:96:12962
+Z@https://static.cdninstagram.com/rsrc.php/v3imYA4/yP/l/makehaste_jhash/5ga8tHmWpG3.js?_nc_x=Ij3Wp8lg5Kz:108:24531
+a/ka/<@https://static.cdninstagram.com/rsrc.php/v3imYA4/yP/l/makehaste_jhash/5ga8tHmWpG3.js?_nc_x=Ij3Wp8lg5Kz:108:29825
+a@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:228:191
+o@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:229:871
+l/<@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:229:396
+
+[Parent 76528, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 77352, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692814440952	geckodriver	INFO	Listening on 127.0.0.1:54359
+1692814443684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54360" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daria\\AppData\\Local\\Temp\\rust_mozprofileeSGAKu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692814447790	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692814448181	Marionette	INFO	Listening on port 54367
+WebDriver BiDi listening on ws://127.0.0.1:54360
+Read port: 54367
+1692814448881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54360/devtools/browser/7c57be54-4c57-4e62-aacf-642bc213511b
+[Parent 78720, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15432, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yH/l/en_US/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz, line 876: Script terminated by timeout at:
+j@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:876:385
+f@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:876:983
+u@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:936:4396
+v@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:936:4866
+m@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:988:1210
+i@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:988:649
+l@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:988:969
+
+[Parent 78720, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15432, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692816270276	Marionette	INFO	Stopped listening on port 54367
+Dynamically enable window occlusion 1
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz, line 1759: Script terminated by timeout at:
+h@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1759:209
+b@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1759:1000
+compressStringToSnappyBinary@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1760:830
+compressWad@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1761:555
+compressWad@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1761:410
+_prepWadForTransit@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1764:4433
+_tryToSendViaBeacon@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1764:7071
+_sendBeacon@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1764:5403
+_unload@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1764:7644
+a@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:228:191
+o@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:229:871
+l/<@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:229:407
+
+[Parent 78720, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15432, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 78720, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15432, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 78720, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15432, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 78720, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15432, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+ enable window occlusion 1
+[Parent 78580, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 79652, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz, line 50: Script terminated by timeout at:
+ym@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:163603
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk8JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz, line 91: Script terminated by timeout at:
+b.$2@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:91:751
+queuePost@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:92:165
+k@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:93:296
+r@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1256:4257
+f/<@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1256:3639
+
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz, line 223: Script terminated by timeout at:
+Y/P<@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:223:3448
+
+1692816313528	Marionette	INF[Parent 74968, IPC I/O Parent] WARNDynamically enable window occlusion 1
+[Parent 16272, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 59548, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz, line 1753: Script terminated b1692816697759	Marionette	INFO	Stopped listening on port 55025
+Dynamically enable window occlusion 1
+[Parent 74968, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 78592, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 74968, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 78592, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 74968, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[Parent 74968, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 78592, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[GPU 78592, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 74968, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 78592, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16272, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 59548, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+hmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:100665
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:100665
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:100665
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:100665
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:100665
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98217
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:100665
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:103322
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98217
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:100665
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:103322
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:103214
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:103322
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:101905
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:101398
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:103322
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98217
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:103322
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:103322
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:103322
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:103322
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:103322
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:103322
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:103322
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:103322
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:98069
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:103322
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:103322
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:103322
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:103322
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:103322
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:103322
+oi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:97947
+qi@https://static.cdninstagram.com/rsrc.php/v3iEiL4/yB/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LwXUL0uypY_TIohmRQ2b689yCokp33BsGQ7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:103322
+
+[Parent 78580, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[Parent 78580, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 79652, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 78580, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 79652, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[GPU 79652, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 78580, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 79652, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692816575407	geckodriver	INFO	Listening on 127.0.0.1:55137
+1692816578929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55138" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daria\\AppData\\Local\\Temp\\rust_mozprofilenRFVXm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692816581621	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692816581950	Marionette	INFO	Listening on port 55149
+WebDriver BiDi listening on ws://127.0.0.1:55138
+Read port: 55149
+1692816582276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55138/devtools/browser/f1230868-160d-4c8e-a996-bdf67f685b69
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+[Parent 76936, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 74992, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yH/l/en_US/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+[Parent 76936, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 74992, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.sys.mjs","lineNumber":2279,"stack":["resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_onQuitApplicationGranted:2279","resource:///modules/sessionstore/SessionStore.sys.mjs:ssi_observe:1172"]}] Barrier: quit-application-granted
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1692818500814	Marionette	INFO	Stopped listening on port 55149
+Dynamically enable window occlusion 1
+[Parent 76936, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[Parent 76936, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 74992, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[GPU 74992, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 76936, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 74992, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692818748736	geckodriver	INFO	Listening on 127.0.0.1:55612
+1692818751998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55613" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daria\\AppData\\Local\\Temp\\rust_mozprofile6ZOPoW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692818753490	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692818753722	Marionette	INFO	Listening on port 55632
+WebDriver BiDi listening on ws://127.0.0.1:55613
+Read port: 55632
+1692818754393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55613/devtools/browser/768f4734-b504-439b-8eae-2f6bbd38473b
+[Parent 15048, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 77348, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yH/l/en_US/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPGn4/yX/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LIohmRQ2b689yCokp33BsGQmJo9NMMo3Fw7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz, line 92: Script terminated by timeout at:
+e@https://static.cdninstagram.com/rsrc.php/v3iPGn4/yX/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LIohmRQ2b689yCokp33BsGQmJo9NMMo3Fw7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:92:755
+c@https://static.cdninstagram.com/rsrc.php/v3iPGn4/yX/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LIohmRQ2b689yCokp33BsGQmJo9NMMo3Fw7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:92:695
+d@https://static.cdninstagram.com/rsrc.php/v3iPGn4/yX/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LIohmRQ2b689yCokp33BsGQmJo9NMMo3Fw7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:92:721
+i/h.exports@https://static.cdninstagram.com/rsrc.php/v3iPGn4/yX/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LIohmRQ2b689yCokp33BsGQmJo9NMMo3Fw7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:92:256
+F@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:876:3420
+q@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:913:2590
+e@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:913:5455
+a@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:941:497
+send@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:903:1752
+A@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:895:1402
+z<@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:895:971
+e/k<@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:232:933
+applyWithGuard@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:59:10432
+c@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:59:11166
+N@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:223:2343
+U@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:223:3045
+
+1692819067583	Marionette	INFO	Stopped listening on port 55632
+Dynamically enable window occlusion 1
+[Parent 15048, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 77348, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15048, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 77348, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15048, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 77348, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15048, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 77348, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15048, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 77348, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692819102631	geckodriver	INFO	Listening on 127.0.0.1:55708
+1692819105747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daria\\AppData\\Local\\Temp\\rust_mozprofiledFx36s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692819107193	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692819107404	Marionette	INFO	Listening on port 55725
+WebDriver BiDi listening on ws://127.0.0.1:55709
+Read port: 55725
+1692819108077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55709/devtools/browser/2af68bd4-ad25-4b27-b9b8-db3b9de86125
+[Parent 73780, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 75552, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692819119510	Marionette	INFO	Stopped listening on port 55725
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPGn4/yX/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LIohmRQ2b689yCokp33BsGQmJo9NMMo3Fw7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz, line 50: Script terminated by timeout at:
+ek@https://static.cdninstagram.com/rsrc.php/v3iPGn4/yX/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LIohmRQ2b689yCokp33BsGQmJo9NMMo3Fw7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:127773
+fk@https://static.cdninstagram.com/rsrc.php/v3iPGn4/yX/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LIohmRQ2b689yCokp33BsGQmJo9NMMo3Fw7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:127802
+kk@https://static.cdninstagram.com/rsrc.php/v3iPGn4/yX/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LIohmRQ2b689yCokp33BsGQmJo9NMMo3Fw7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:129525
+u@https://static.cdninstagram.com/rsrc.php/v3iPGn4/yX/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LIohmRQ2b689yCokp33BsGQmJo9NMMo3Fw7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:37639
+c@https://static.cdninstagram.com/rsrc.php/v3iPGn4/yX/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LIohmRQ2b689yCokp33BsGQmJo9NMMo3Fw7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:38465
+L@https://static.cdninstagram.com/rsrc.php/v3iPGn4/yX/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LIohmRQ2b689yCokp33BsGQmJo9NMMo3Fw7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:59950
+ck@https://static.cdninstagram.com/rsrc.php/v3iPGn4/yX/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LIohmRQ2b689yCokp33BsGQmJo9NMMo3Fw7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:126025
+Oj@https://static.cdninstagram.com/rsrc.php/v3iPGn4/yX/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LIohmRQ2b689yCokp33BsGQmJo9NMMo3Fw7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:117239
+Lj@https://static.cdninstagram.com/rsrc.php/v3iPGn4/yX/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LIohmRQ2b689yCokp33BsGQmJo9NMMo3Fw7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:116410
+Kj@https://static.cdninstagram.com/rsrc.php/v3iPGn4/yX/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LIohmRQ2b689yCokp33BsGQmJo9NMMo3Fw7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:116223
+vj@https://static.cdninstagram.com/rsrc.php/v3iPGn4/yX/l/en_US/pLpEFQCIXbXr2p7esd700UXOfWZfPTXR1imhmnAZRFiJOS0CMbib3iGwyb8Ob8iWaMPYA3PnLk9jXnXxubVAIVwYHaypzNAtiDxP3C31JedB_99GT4CJyb00U7D9GNGRNhOvC0mYqlmiJUSzQ-9h36-TbwYQCtSCBPjbhnXTLhQ4jB9LIohmRQ2b689yCokp33BsGQmJo9NMMo3Fw7iYdvfcpnyBhmoN-Qk898UvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:50:113068
+applyWithGuard@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:59:10432
+c@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:59:11166
+N@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:223:2343
+U@https://static.cdninstagram.com/rsrc.php/v3/yQ/r/BQrXg_kPpx4.js?_nc_x=Ij3Wp8lg5Kz:223:3045
+
+Dynamically enable window occlusion 1
+[Parent 73780, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 75552, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 73780, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 75552, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 73780, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 75552, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 73780, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 75552, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 73780, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 75552, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692819165262	geckodriver	INFO	Listening on 127.0.0.1:55772
+1692819168429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55773" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daria\\AppData\\Local\\Temp\\rust_mozprofiler4UZnk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692819180360	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692819181339	Marionette	INFO	Listening on port 55780
+WebDriver BiDi listening on ws://127.0.0.1:55773
+Read port: 55780
+1692819182494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+DevTools listening on ws://127.0.0.1:55773/devtools/browser/a34a746e-b689-4a3d-8e9f-58d1a4a6ed1b
+[Parent 41880, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 79372, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yH/l/en_US/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+[Parent 41880, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 79372, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1692819718182	Marionette	INFO	Stopped listening on port 55780
+Dynamically enable window occlusion 1
+[Parent 41880, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 79372, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 41880, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 79372, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 41880, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 79372, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 41880, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 79372, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+channel_win.cc:443
+[Parent 74352, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 76228, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 74352, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 76228, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 74352, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[Parent 74352, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 76228, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[GPU 76228, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692819836330	geckodriver	INFO	Listening on 127.0.0.1:55956
+1692819839823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55957" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daria\\AppData\\Local\\Temp\\rust_mozprofile2NHDLz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692819841761	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692819842019	Marionette	INFO	Listening on port 55965
+WebDriver BiDi listening on ws://127.0.0.1:55957
+Read port: 55965
+1692819842703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55957/devtools/browser/da6dcc35-8237-49a0-9dae-701f33bd5ce3
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ieCg4/yH/l/en_US/Oa_68FbxEku.js?_nc_x=Ij3Wp8lg5Kz, line 124: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 74500, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 77576, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz, line 1254: Script terminated by timeout at:
+l@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1254:3033
+b/b<@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1254:896
+b@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1254:873
+r/<@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1256:4351
+r@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1256:4297
+f/<@https://static.cdninstagram.com/rsrc.php/v3iwWC4/yb/l/en_US/-BiybhrN0D6.js?_nc_x=Ij3Wp8lg5Kz:1256:3639
+
+1692822977565	Marionette	INFO	Stopped listening on port 55965
+Dynamically enable window occlusion 1
+[Parent 74500, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 77576, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 74500, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 77576, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 74500, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 77576, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 74500, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 77576, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 74500, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 77576, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
